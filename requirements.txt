@@ -1,0 +1,6 @@
+biopython
+fast-bert
+scikit-learn
+numpy
+pandas
+imbalanced-learn

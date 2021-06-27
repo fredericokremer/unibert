@@ -1,0 +1,12 @@
+name: test_transformers
+channels:
+  - conda-forge
+  - anaconda
+  - pytorch
+  - bioconda
+dependencies:
+  - pytorch
+  - python=3.8
+  - pip
+  - pip:
+    - -r requirements.txt
